@@ -1,0 +1,6 @@
+struct std_msgs__String
+{
+   string data;
+};
+#pragma keylist std_msgs__String
+
